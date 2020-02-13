@@ -1,0 +1,11 @@
+
+pipeline-build-step:2.5
+ssh-credentials:1.13
+git-client:2.4.5
+docker-workflow:1.11
+docker-commons:1.6
+bitbucket:1.1.5
+ssh-slaves:1.17
+nodejs:1.2.1
+git-server:1.7
+git:3.3.0
